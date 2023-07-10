@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttiyasarkar&color=green" alt="uttiyasarkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttiyasarkar&color=brightgreen&style=for-the-badge&label=Visitors" alt="uttiyasarkar" /> </p>
 
 Here are some ideas to get you started:
 
