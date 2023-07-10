@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrkhanchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nrkhanchowdhury" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttiyasarkar&label=Visitors%20&color=0e75b6&style=flat" alt="nrkhanchowdhury" /> </p>
 
 Here are some ideas to get you started:
 
