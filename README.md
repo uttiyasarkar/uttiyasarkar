@@ -1,6 +1,4 @@
-![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
-<!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrkhanchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nrkhanchowdhury" /> </p>
 
 Here are some ideas to get you started:
 
