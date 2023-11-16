@@ -1,5 +1,8 @@
 # Hello, I'm UTTIYA! 👋
 
+![Particles](https://camo.githubusercontent.com/46675fde24d91bc1abd420c444d31833f4bcc9e1c763faf78265c237e32bb676/68747470733a2f2f6d65646961302e67697068792e636f6d2f617661746172732f6d776f6f6f64776172642f634965354d764476583456632e676966)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttiyasarkar&color=brightgreen&style=for-the-badge&label=Visitors" alt="uttiyasarkar" /> </p>
 
 [![Website](https://img.shields.io/badge/Portfolio-UttiyaSarkar-green?style=flat-square&logo=appveyor)](https://uttiyasarkar.github.io/)
