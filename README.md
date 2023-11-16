@@ -1,13 +1,10 @@
 # Hello, I'm UTTIYA! 👋
-#Welcome to my Github Profile
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttiyasarkar&color=brightgreen&style=for-the-badge&label=Visitors" alt="uttiyasarkar" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttiyasarkar&color=brightgreen&style=for-the-badge&label=Visitors" alt="uttiyasarkar" /> </p>
 
 [![Website](https://img.shields.io/badge/Portfolio-UttiyaSarkar-green?style=flat-square&logo=appveyor)](https://uttiyasarkar.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-UttiyaSarkar-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/uttiya-sarkar/)
 [![GitHub followers](https://img.shields.io/github/followers/uttiyasarkar?label=Follow&style=social)](https://github.com/uttiyasarkar)
-
-## 🔧 Technologies & Tools
 
 ## 🔧 Technologies & Tools
 
@@ -36,5 +33,5 @@
 
 Feel free to reach out to me through the following channels:
 
-- Email: [your.email@example.com](mailto:uttiyasarkar@gmail.com)
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/uttiya-sarkar/)
+- Email: [uttiyasarkar@gmail.com](mailto:uttiyasarkar@gmail.com)
+- LinkedIn: [Uttiya Sarkar](https://www.linkedin.com/in/uttiya-sarkar/)
