@@ -27,6 +27,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-blond-mu.vercel.app?user=uttiyasarkar&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=516)](https://git.io/streak-stats)
 
+## 📄 Resume
+
+You can find my detailed resume [here](https://uttiyasarkar.github.io/assets/pdf/Resume_LV.pdf).
+
 ## 📫 Contact
 
 Feel free to reach out to me through the following channels:
