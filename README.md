@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-UttiyaSarkar-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/uttiya-sarkar/)
 [![GitHub followers](https://img.shields.io/github/followers/uttiyasarkar?label=Follow&style=social)](https://github.com/uttiyasarkar)
 
+![Particles](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdrejVlMjVsOG0waDAzcGh5dWVuczR1cjRucXA3ZzE1Z3AycHgwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMvOpKqX67CQxiCVkv/giphy.gif)
+
 ## 🔧 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
