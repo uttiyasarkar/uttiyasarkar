@@ -1,7 +1,7 @@
 # Hello, I'm UTTIYA! 👋 
 ![Visitor](https://komarev.com/ghpvc/?username=uttiyasarkar&color=brightgreen&style=for-the-badge&label=Visitors)
-[![Website](https://img.shields.io/badge/Portfolio-UttiyaSarkar-green?style=flat-square&logo=appveyor)](https://uttiyasarkar.github.io/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-UttiyaSarkar-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/uttiya-sarkar/)
+[![Website](https://img.shields.io/badge/Portfolio-green?style=flat-square&logo=appveyor)](https://uttiyasarkar.github.io/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/uttiya-sarkar/)
 [![GitHub followers](https://img.shields.io/github/followers/uttiyasarkar?label=Follow&style=social)](https://github.com/uttiyasarkar)
 
 ![Particles](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdrejVlMjVsOG0waDAzcGh5dWVuczR1cjRucXA3ZzE1Z3AycHgwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMvOpKqX67CQxiCVkv/giphy.gif)
