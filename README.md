@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/uttiya-sarkar/)
 [![GitHub followers](https://img.shields.io/github/followers/uttiyasarkar?label=Follow&style=social)](https://github.com/uttiyasarkar)
 
-#I am a Particle Physicist at the Large Hadron Collider at CERN. 
+I am a Particle Physicist at the Large Hadron Collider at CERN. 
 
 ![Particles](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdrejVlMjVsOG0waDAzcGh5dWVuczR1cjRucXA3ZzE1Z3AycHgwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMvOpKqX67CQxiCVkv/giphy.gif)
 
