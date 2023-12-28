@@ -4,7 +4,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/uttiya-sarkar/)
 [![GitHub followers](https://img.shields.io/github/followers/uttiyasarkar?label=Follow&style=social)](https://github.com/uttiyasarkar)
 
-I am a Particle Physicist at the Large Hadron Collider at CERN. At present, I am working as a post-doctoral researcher at RWTH Aachen University.
+#### About me  
+> - Particle Physicist at the Large Hadron Collider at CERN. 
+> - Present employment: Post-doctoral researcher (RWTH Aachen University, Germany)
+> - Post-doctoral Researcher (École Polytechnique, France) 
+> - Doctor of Philosophy in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
+> - Master of Science in Physics (Indian Institute of Technology Indore, India)
 
 ![Particles](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdrejVlMjVsOG0waDAzcGh5dWVuczR1cjRucXA3ZzE1Z3AycHgwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMvOpKqX67CQxiCVkv/giphy.gif)
 
@@ -21,6 +26,11 @@ I am a Particle Physicist at the Large Hadron Collider at CERN. At present, I am
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+#### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=uttiyasarkar&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
+<!-- link: https://github.com/ryo-ma/github-profile-trophy -->
 
 ## 📊 GitHub Stats
 
