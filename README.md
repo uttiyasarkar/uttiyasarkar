@@ -27,10 +27,6 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-#### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=uttiyasarkar&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
-<!-- link: https://github.com/ryo-ma/github-profile-trophy -->
 
 ## 📊 GitHub Stats
 
@@ -40,6 +36,11 @@
 **Streaks:**
 
 [![GitHub Streak](https://github-readme-streak-stats-blond-mu.vercel.app?user=uttiyasarkar&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=516)](https://git.io/streak-stats)
+
+#### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=uttiyasarkar&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
+<!-- link: https://github.com/ryo-ma/github-profile-trophy -->
 
 ## 📄 Resume
 
